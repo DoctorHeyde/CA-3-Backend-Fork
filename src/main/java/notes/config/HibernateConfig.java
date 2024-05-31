@@ -71,6 +71,7 @@ public class HibernateConfig {
             throw new ExceptionInInitializerError(ex);
         }
     }
+    
 
 
     private static String getDBName() {
